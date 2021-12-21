@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "my-project",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "green"
+    },
+    "slug": "my-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-project"
+}
